@@ -1,5 +1,8 @@
 # Magi100
 
+OK FIRST REPORTS!!
+EA verions 1 was found with many erors.  I will be looking into this and when ready will have version 2 here for download.
+
 MT4 Expert Advisot (EA) based on the approach provided by Minotawr at
 https://www.forexfactory.com/showthread.php?t=989445
 
