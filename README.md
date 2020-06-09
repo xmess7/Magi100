@@ -1,6 +1,7 @@
 # Magi100
 
-First BUGS FIXED!.  See the video 2 below for more info.
+If you see a version higher than what you expect, that means there has been en update.
+I recommend you delete any other previous version you may have and use the latest that posted here.
 
 MT4 Expert Advisot (EA) based on the approach provided by Minotawr at
 https://www.forexfactory.com/showthread.php?t=989445
