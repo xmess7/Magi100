@@ -3,7 +3,7 @@
 NOTE:
 Hey folks for now I am leaving the project as iz (version 8).  I am leaving version 7 for in case version 8 doesn't behave :).
 I am running version 8 24/7 in order to keep track of performance. If anything is noted I will updated it and release it.
-So for now version 8 is the last version.  This version in its defacult setup will perform trades are indicated on the Magic100 pg1.
+So for now version 8 is the last version.  Version 8 in its default setup will perform trades are indicated on the Magic100 pg1.
 I will be back to do more fun stuff....  :)
 
 The MAGIC 100 EA
