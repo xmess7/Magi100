@@ -1,6 +1,11 @@
 # Magi100
 
-NOTE:
+UPDATE(2020.06.23):
+Version 9 has a major update. Please use this version. The update provides for a drastic increase in performance.
+I have left version 7 in case version 9 gives problems.  I doubt this will be the case, but for now I will leave it like so.
+
+I recommend you start using version 9, just on the cpu/memory usage there is great improvement.
+
 Hey folks for now I am leaving the project as iz (version 8).  I am leaving version 7 for in case version 8 doesn't behave :).
 I am running version 8 24/7 in order to keep track of performance. If anything is noted I will updated it and release it.
 So for now version 8 is the last version.  Version 8 in its default setup will perform trades are indicated on the Magic100 pg1.
