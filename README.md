@@ -1,10 +1,13 @@
 # Magi100
 
-UPDATE(2020.06.23):
-Version 10. Added emaPERIOD input.  Users can now change the ema period.
+UPDATE(2020.07.02):
+Version 12. Added emaPERIOD input.  Users can now change the ema period.
 
-Hey folks for now I am leaving the project as iz (now version 11).  I am leaving version 7 for in case version 8 doesn't behave :).
-I am running version 11 24/7 in order to keep track of performance. If anything is noted I will updated it and release it.
+Hey folks for now I am leaving the project as iz (now version 12). Version 7 is still available in case you have issues with version 12 :).
+Version 7 was the last working version but it does use more memory/cpu.  Some of you will not notice this but for those running other EAs/Indicators, depending on how much 
+you are running you may see some affect in performance..
+
+I am running version 12 24/7 in order to keep track of performance. If anything is noted I will updated it and release it.
 I will be back to do more fun stuff....  :)
 
 The MAGIC 100 EA
