@@ -1,14 +1,7 @@
 # Magi100
 
-UPDATE(2020.07.02):
-Version 12. Added emaPERIOD input.  Users can now change the ema period.
-
-Hey folks for now I am leaving the project as iz (now version 12). Version 7 is still available in case you have issues with version 12 :).
-Version 7 was the last working version but it does use more memory/cpu.  Some of you will not notice this but for those running other EAs/Indicators, depending on how much 
-you are running you may see some affect in performance..
-
-I am running version 12 24/7 in order to keep track of performance. If anything is noted I will updated it and release it.
-I will be back to do more fun stuff....  :)
+UPDATE(2020.07.08):
+Version 13. Added input setTradeDirection.  The user can now set the direction before hand that the EA will trade.  Think of it as you determine the trend and then set the EA to only trade in that direction..
 
 The MAGIC 100 EA
 ==========================================================================
