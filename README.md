@@ -1,7 +1,7 @@
 # Magi100
 
-UPDATE(2020.07.08):
-Version 13. Added input setTradeDirection.  The user can now set the direction before hand that the EA will trade.  Think of it as you determine the trend and then set the EA to only trade in that direction..
+UPDATE(2020.08.13):
+Version 14. Users reported that EA would close pending order after every candle close, no matter the color.  The code was updated to now only close the candle if a new signal appears.
 
 The MAGIC 100 EA
 ==========================================================================
